@@ -87,5 +87,6 @@ public class Main {
                 System.out.println("Число "+three+" наибольшее");
             }
         }
+
     }
 }
